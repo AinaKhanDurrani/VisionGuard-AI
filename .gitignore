@@ -1,0 +1,17 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Videos
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+*.jpg
+
+
+
+# Dataset
+data/datasets/
+
